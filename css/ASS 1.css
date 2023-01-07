@@ -1,0 +1,305 @@
+*{
+    margin-top: 0%;
+    font-family: 'Work Sans';
+    font-style: normal;
+
+}
+
+/*-- header-->*/
+.banner-title{
+    position: absolute;
+    width: 450px;
+    height: 228px;
+    left: 705px;
+    top: 100px;
+    color: red;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 76px;
+    text-align: right;
+    font-family: 'Work Sans';
+    
+}
+.t{
+color:black;
+
+}
+
+
+
+    .b-Data{
+       
+        position: absolute;
+        width: 450px;
+        height: 78px;
+        left: 700px;
+        top: 350px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 200px;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: right;
+    }
+    .primary-button{
+        position: absolute;
+          width: 145px;
+             height: 64px;
+               left: 1004px;
+               top: 450px;
+              background-color: red;
+             color: white;
+             
+    }
+
+
+  /*-- header close-->*/
+
+
+    /*--Failures -->*/
+
+  .failures{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 234px;
+top: 800px;
+  }
+
+
+  .MY-failures{
+position: absolute;
+width: 288px;
+height: 94px;
+left: 550px;
+top: 90px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+  }
+
+  .F-T{
+    color: red;
+  }
+
+  .F-Data{
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 550px;
+top: 250px;
+font-family: 'Work Sans';
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+  }
+ .c1{
+    position: absolute;
+width: 359px;
+height: 24.6px;
+left: 550px;
+top: 336px;
+}
+
+   
+
+.c2{
+    position: absolute;
+width: 359px;
+height: 24.6px;
+left: 550px;
+top: 355px;
+}
+ 
+
+.c3{
+    position: absolute;
+    width: 359px;
+    height: 24.6px;
+    left: 550px;
+    top: 374px;
+}
+
+.c4{
+    position: absolute;
+    width: 359px;
+    height: 24.6px;
+    left: 550px;
+    top: 393px
+}
+.c5{
+    position: absolute;
+    width: 359px;
+    height: 24.6px;
+    left: 550px;
+    top: 412px
+}
+
+   /*--Failures close-->*/
+
+
+
+/*-- what i do-->*/
+.My-Plan{
+    margin-top: 750px;
+    text-align: center;
+}
+
+.plan-title{
+    
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: red;
+   
+}    
+
+.plan-titles{
+
+
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: yellow;
+   
+}
+
+.plan-container
+{
+   display: flex; 
+   gap: 24px;
+   align-content: space-between;
+  
+}
+
+.plan{
+background-color: black;
+box-shadow: 0px 6px 50px rgba(0,0, 0, 0.06);
+border-radius: 5px;
+padding:30px ;
+
+
+}
+.plan-des{
+color: white
+}
+
+
+
+
+.call-now{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 140px;
+    top: 1900px;
+    background-image:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+
+.call-title{
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 94px;
+    top: 100px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color:black;
+    
+
+}
+
+.primarys-button{
+   
+    position: absolute;
+	width: 160px;
+             height: 64px;
+             left: 98px;
+          top: 194px;
+
+          background-color: red;
+         color: white;
+    
+}         
+         
+
+/*-- what i do */
+
+/*-- footer */
+
+.footer{
+    position: absolute;
+    width: 1330px;
+    height: 350px;
+    top: 2400px;
+    display: flex;
+    gap: 270px;
+    background: #151414;
+    align-content: space-between;
+
+}
+
+.footer-title{
+    osition: absolute;
+width: 148px;
+height: 53px;
+left: 240px;
+top: 2776.3px;
+font-weight: 700;
+font-size: 25px;
+line-height: 53px;
+
+
+color: white
+
+}
+
+.footer-text{
+
+width: 100px;
+height: 78px;
+top: 100px;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+/* or 162% */
+
+
+color:wheat;
+
+
+}
+
+.f-primary-button{
+
+  position: absolute;
+	width: 160px;
+             height: 64px;
+             left: 835px;
+          top: 250px;
+
+          background-color: red;
+         color: white;
+    	
+    
+}
+	
+	.p{
+  padding:30px 90px;
+}
+
+
+
+/*-- what i do-->
+linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1))
